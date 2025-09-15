@@ -4,7 +4,7 @@
 This section teaches you how to make specific changes to your Kubernetes resources using patches:
 - Strategic Merge Patches: Easy way to modify configurations
 - JSON 6902 Patches: More precise modifications
-- When to use each type of patch
+- When to use each type of patch .
 
 ## Directory Structure
 ```
