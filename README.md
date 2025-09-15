@@ -1,6 +1,6 @@
 # Kustomize: Zero to Hero 🚀
 
-Welcome to Kustomize learning! This guide will help you learn Kustomize step by step, using simple examples and clear explanations.
+Welcome to Kustomize learning! This guide will help you learn Kustomize step by step, using simple examples and clear explanations..
 
 ## What is Kustomize?
 Kustomize helps you change Kubernetes files without editing them directly. Think of it like cooking:
