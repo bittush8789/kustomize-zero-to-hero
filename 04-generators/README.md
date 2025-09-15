@@ -6,7 +6,7 @@ This section explores Kustomize's powerful generators for ConfigMaps and Secrets
 - Generating Secrets safely
 - Understanding when to use each generator type
 
-## Understanding the Configuration .
+## Understanding the Configuration ## 
 
 ### ConfigMap Generators
 1. **From Literals**

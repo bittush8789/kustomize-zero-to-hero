@@ -6,7 +6,7 @@ In this section, you'll learn the fundamental concepts of Kustomize:
 - How to make simple changes without touching the original files
 - Understanding base and overlay structure
 
-## Directory Structure
+## Directory Structure #
 ```
 .
 ├── base/                  # Your original configuration
