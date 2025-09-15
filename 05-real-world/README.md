@@ -7,7 +7,7 @@ This section demonstrates a real-world application setup with Kustomize:
 - Service and deployment management
 - Production-ready practices
 
-## Directory Structure
+## Directory Structure ##
 ```
 .
 ├── base/                      # Base configuration
