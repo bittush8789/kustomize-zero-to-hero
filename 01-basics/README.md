@@ -1,7 +1,7 @@
 # Kustomize Basics
 
 ## What You'll Learn
-In this section, you'll learn the fundamental concepts of Kustomize:
+In this section, you'll learn the fundamental concepts of Kustomize.
 - How to organize your Kubernetes configurations
 - How to make simple changes without touching the original files
 - Understanding base and overlay structure
