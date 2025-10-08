@@ -1,4 +1,4 @@
-# Generators in Kustomize
+## Generators in Kustomize
 
 ## What You'll Learn
 This section explores Kustomize's powerful generators for ConfigMaps and Secrets:
