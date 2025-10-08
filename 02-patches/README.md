@@ -23,7 +23,7 @@ This section teaches you how to make specific changes to your Kubernetes resourc
 - File: `increase-memory.yaml`
 - Purpose: Updates memory limit from 128Mi to 256Mi
 - How it works: Overlays matching fields in the original
-- When to use: For simple modifications to existing fields
+- When to use: For simple modifications to existing fields.
 
 ### JSON 6902 Patch
 - File: `add-label.yaml`
