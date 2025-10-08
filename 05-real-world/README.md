@@ -1,7 +1,7 @@
 # Real World Kustomize Example
 
 ## What You'll Learn
-This section demonstrates a real-world application setup with Kustomize:
+This section demonstrates a real-world application setup with Kustomize.
 - Multi-environment configuration
 - Database connections
 - Service and deployment management
