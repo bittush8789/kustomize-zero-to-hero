@@ -1,4 +1,4 @@
-# Working with Patches in Kustomize
+## Working with Patches in Kustomize
 
 ## What You'll Learn
 This section teaches you how to make specific changes to your Kubernetes resources using patches:
