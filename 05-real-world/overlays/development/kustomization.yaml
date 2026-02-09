@@ -10,4 +10,4 @@ configMapGenerator:
 - name: app-config
   behavior: merge
   literals:
-  - database_host=dev-db.example.com
+  - database_host=dev-db.example.
